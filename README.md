@@ -1,6 +1,6 @@
 # **Reinforcement Learning Model**
 
-**Reinforcement Learning Model which learns and improves itself from its environment. This includes an agent which continously interact with its environment, learns and improves.
+Reinforcement Learning Model which learns and improves itself from its environment. This includes an agent which continously interact with its environment, learns and improves.
 
 ---
 
